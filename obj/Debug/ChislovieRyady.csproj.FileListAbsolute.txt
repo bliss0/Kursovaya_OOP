@@ -1,0 +1,9 @@
+C:\Users\Пользователь\source\repos\ChislovieRyady\obj\Debug\ChislovieRyady.csprojAssemblyReference.cache
+C:\Users\Пользователь\source\repos\ChislovieRyady\obj\Debug\ChislovieRyady.Properties.Resources.resources
+C:\Users\Пользователь\source\repos\ChislovieRyady\obj\Debug\ChislovieRyady.csproj.GenerateResource.cache
+C:\Users\Пользователь\source\repos\ChislovieRyady\obj\Debug\ChislovieRyady.csproj.CoreCompileInputs.cache
+C:\Users\Пользователь\source\repos\ChislovieRyady\bin\Debug\ChislovieRyady.exe.config
+C:\Users\Пользователь\source\repos\ChislovieRyady\bin\Debug\ChislovieRyady.exe
+C:\Users\Пользователь\source\repos\ChislovieRyady\bin\Debug\ChislovieRyady.pdb
+C:\Users\Пользователь\source\repos\ChislovieRyady\obj\Debug\ChislovieRyady.exe
+C:\Users\Пользователь\source\repos\ChislovieRyady\obj\Debug\ChislovieRyady.pdb
